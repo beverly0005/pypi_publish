@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name='publish_pypi_example',
+    name='pypi_publish_testrock',
     version='0.1',
     license='Apache License 2.0',
     author="Author Name",
